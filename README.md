@@ -10,9 +10,9 @@ Software Developer (Python and React):
 ---
 
 - 🔭 I’m currently working on **[Ada Asia](https://ada-asia.com)**
-- 🌱 I’m currently learning **[AWS](https://aws.amazon.com)*
+- 🌱 I’m currently learning **[AWS](https://aws.amazon.com)**
 - 👯 I’m looking to collaborate on **Django and React**
-- 🤔 I’m looking for help with **Web Developement Stuffs*
+- 🤔 I’m looking for help with **Web Developement Stuffs**
 - 💬 Ask me about **[Python](https://python.org) or [React](https://reactjs.org)**
 - 📫 How to reach me: **[mhkmcp@yahoo.com](mhkmcp@yahoo.com)**
 - ⚡ Fun fact: **TEF3's - Travel, Explore, Food, Flute and Football**
