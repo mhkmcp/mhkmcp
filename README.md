@@ -15,5 +15,5 @@ Software Developer (Python and JavaScript):
 - 🤔 I’m looking for help with **Web Developement Stuffs**
 - 💬 Ask me about **[Python](https://python.org) or [React](https://reactjs.org)**
 - 📫 How to reach me: **[mhkmcp@yahoo.com](mhkmcp@yahoo.com)**
-- ⚡ Fun fact: **TEF3's - Travel, Explore, Food, Flute and Football**
+- ⚡ Fun fact: **TEF2's - Travel, Explore, Flute and Football**
 
