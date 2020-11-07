@@ -8,7 +8,8 @@
 
 Software Developer (Python and JavaScript):
 ---
-
+![eat sleep code](https://tenor.com/bid2a.gif)
+***
 - 🔭 I’m currently working on **[Ada Asia](https://ada-asia.com)**
 - 🌱 I’m currently learning **[AWS](https://aws.amazon.com)**
 - 👯 I’m looking to collaborate on **[Django](https://www.djangoproject.com) or [React](https://reactjs.org)**
