@@ -8,7 +8,7 @@
 
 Software Developer (Python and JavaScript):
 ---
-![eat sleep code](https://tenor.com/bid2a.gif)
+![eat sleep code](https://tenor.com/view/lockdown-life-work-sleep-repeat-gif-16697840)
 ***
 - 🔭 I’m currently working on **[Ada Asia](https://ada-asia.com)**
 - 🌱 I’m currently learning **[AWS](https://aws.amazon.com)**
