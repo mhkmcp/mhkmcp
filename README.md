@@ -6,7 +6,7 @@
 **mhkmcp/mhkmcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Full Stack Software Engineer (React, Node, Django, Django REST Framework, Laravel):
+Full Stack Software Engineer (React, Node, Django, DRF & Laravel):
 ---
 - 🔭 I’m currently working on **[Ada Asia](https://ada-asia.com)**
 - 🌱 I’m currently learning **[NodeJs](https://nodejs.dev)**
