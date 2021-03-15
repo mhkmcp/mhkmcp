@@ -1,7 +1,6 @@
 # Hi 👋   Welcome!!
-### This is **Humayun Kabir**
-
-**mhkmcp/mhkmcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## This is **Humayun Kabir**
+***
 
 Full Stack Software Engineer (React, Node, Django, DRF & Laravel):
 ***
