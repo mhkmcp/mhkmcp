@@ -1,10 +1,10 @@
 # Hi 👋   Welcome!!
 ## This is **Humayun Kabir**
 
-Full Stack Software Engineer (React, Node, Django, DRF & Laravel):
+Full Stack Software Engineer (Angular, React, Node, Django, DRF & Laravel):
 ***
 - 🔭 I’m currently working on **[Ada Asia](https://ada-asia.com)**
-- 🌱 I’m currently learning **[NodeJs](https://nodejs.dev)**
+- 🌱 I’m currently learning **[MERN STACK](https://reactjs.org) & [Node](https://nodejs.dev)** 
 - 👯 I’m looking to collaborate on **[Django](https://www.djangoproject.com) or [React](https://reactjs.org)**
 - 🤔 I’m looking for help with **Web Developement Stuffs**
 - 💬 Ask me about **[Python](https://python.org) or [React](https://reactjs.org)**
