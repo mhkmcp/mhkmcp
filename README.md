@@ -1,7 +1,7 @@
 # Hi 👋   Welcome!!
 ## This is **Humayun Kabir**
 
-Full Stack Software Engineer (Angular, React, Node, Django, DRF & Laravel):
+Blockchain & Full-Stack Software Engineer (JS, Python, Solana, Solidity, Django, DRF & Laravel):
 ***
 - 🔭 I’m currently working at **[Impel IT Soutions](http://www.impelitsolutions.com)** as a **Full Stack Software Engineer**
 - 🌱 I’m currently learning **[Full Stack Web Development(MERN)](https://web.programming-hero.com)** 
