@@ -3,7 +3,7 @@
 
 Blockchain & Full-Stack Software Engineer (JS, Python, Solana, Solidity, Django, DRF & Laravel):
 ***
-- 🔭 I’m currently working at **[Impel IT Soutions](http://www.impelitsolutions.com)** as a **Full Stack Software Engineer**
+- 🔭 I’m currently working at **[Nash fintechX](http://nashfintechx.com/)** as a **Blockchain Engineer**
 - 🌱 I’m currently learning **[Full Stack Web Development(MERN)](https://web.programming-hero.com)** 
 - 👯 I’m looking to collaborate on **[Django](https://www.djangoproject.com) or [React](https://reactjs.org)**
 - 🤔 I’m looking for help with **Web Developement Stuffs**
