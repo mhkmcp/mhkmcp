@@ -1,7 +1,7 @@
 # Hi 👋   Welcome!!
 ## This is **Humayun Kabir**
 
-Blockchain & Full-Stack Software Engineer (JS, Python, Django, DRF & Laravel):
+Full-Stack Software Engineer (JS, Python, React, Django, DRF, NextJs & Laravel):
 ***
 - 🔭 I’m currently working at **[Nash fintechX](http://nashfintechx.com/)** as a **Software Engineer**
 - 🌱 I’m currently learning **[Full Stack Web Development(MERN)](https://web.programming-hero.com)** 
